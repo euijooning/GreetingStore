@@ -39,6 +39,6 @@
 ✅ 주문은 상품 상세보기 페이지, 장바구니 페이지에서 모두 가능하다.<br>
 
 ---
-### 🛒 시연 영상
-- https://youtu.be/IDN6WMgx_sY
+### 🛒 시연 영상(Youtube 링크)
+- [https://youtu.be/IDN6WMgx_sY](https://www.youtube.com/watch?v=lEj7azSdouo)https://www.youtube.com/watch?v=lEj7azSdouo
 
