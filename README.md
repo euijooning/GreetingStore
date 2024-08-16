@@ -40,5 +40,5 @@
 
 ---
 ### 🛒 시연 영상(Youtube 링크)
-- [https://youtu.be/IDN6WMgx_sY](https://www.youtube.com/watch?v=lEj7azSdouo)https://www.youtube.com/watch?v=lEj7azSdouo
+- https://www.youtube.com/watch?v=3MbMakNbUVc
 
