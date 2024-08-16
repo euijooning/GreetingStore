@@ -21,7 +21,7 @@
 ----
 
 ## 📋 프로젝트 정리 Notion(배지 클릭)
-- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://codegradation.notion.site/GreetingStore-425aa485a25940c18829125da1926e0a?pvs=4)
+- [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://coreknockknock.notion.site/GreetingStore-425aa485a25940c18829125da1926e0a?pvs=4)
 
 <br>
 
