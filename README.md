@@ -40,4 +40,4 @@
 
 ---
 ### 🛒 시연 영상
-📺 https://youtu.be/slW-m8foGOU
+📺 https://youtu.be/1kEBTOsh1rU
